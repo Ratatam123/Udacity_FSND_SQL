@@ -1,4 +1,4 @@
-# Fullstack Nanodegree; Project 1; March, 3, 2019
+# Fullstack Nanodegree; Project 1; 2019
 
 ## Info
 The project comprises a python script and a txt-file with a sample of its output that is normally written to a log-file.
