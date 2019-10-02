@@ -1,0 +1,20 @@
+The three most read articles of all time are: 
+
+			1. "Candidate is jerk, alleges rival" -- 338647 reads
+
+			2. "Bears love berries, alleges bear" -- 253801 reads
+
+			3. "Bad things gone, say good people" -- 170098 reads
+
+The most read article authors are: 
+
+			1. "Ursula La Multa" -- 507594 reads
+
+			2. "Rudolf von Treppenwitz" -- 423457 reads
+
+			3. "Anonymous Contributor" -- 170098 reads
+
+			4. "Markoff Chaney" -- 84557 reads
+
+On the following date(s) more than 1 percent of the requests for an article failed: 
+			July     , 17, 2016 -- 2.3 percent
